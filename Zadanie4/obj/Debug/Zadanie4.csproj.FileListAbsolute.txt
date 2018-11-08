@@ -21,3 +21,7 @@ E:\TechnologieProgramowania\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csproj.Generate
 E:\TechnologieProgramowania\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
 E:\TechnologieProgramowania\Zadanie4\Zadanie4\obj\Debug\Zadanie4.exe
 E:\TechnologieProgramowania\Zadanie4\Zadanie4\obj\Debug\Zadanie4.pdb
+E:\TechnologieProgramowania\Zadanie4\Zadanie4\bin\Debug\WarstwaUslugi.dll
+E:\TechnologieProgramowania\Zadanie4\Zadanie4\bin\Debug\WarstwaUslugi.pdb
+E:\TechnologieProgramowania\Zadanie4\Zadanie4\bin\Debug\WarstwaUslugi.dll.config
+E:\TechnologieProgramowania\Zadanie4\Zadanie4\obj\Debug\GeneratedInternalTypeHelper.g.cs
